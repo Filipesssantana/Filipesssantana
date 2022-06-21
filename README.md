@@ -1,8 +1,6 @@
  ## <p align="center">:computer:  Olá, eu sou Filipe, Full-Stack Developer Jr, de São Paulo, Brazil.
 
 
- ##
-
 <div align="center">
    <a href="https://github.com/Filipesssantana">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipesssantana&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
